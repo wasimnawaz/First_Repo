@@ -6,6 +6,6 @@ const multiply = require('./code-file');
 
 test('adds 1 + 2 to equal 3', multiplyTest)
 function multiplyTest() {
-  expect(multiply(2, 2)).toBe(10);
+  expect(multiply(2, 2)).toBe(11);
 };
 
