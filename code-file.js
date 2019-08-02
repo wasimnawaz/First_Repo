@@ -1,5 +1,5 @@
-function sum(a, b) {
-    return a + b + 7;
+function multiply(a, b) {
+    return a * b + 6;
   }
   
-module.exports = sum;
+module.exports = multiply;
